@@ -1,6 +1,5 @@
 <p align="center">
- <img width="100%" alt="descarga-removebg-preview" src="https://github.com/user-attachments/assets/cb34edc4-9b09-4137-9cd9-70a948489ecd" />
-
+ <img width="100%" alt="banner" src="https://github.com/user-attachments/assets/cb34edc4-9b09-4137-9cd9-70a948489ecd" />
 </p>
 
 <h1 align="center">Hi, I'm Gustavo Luizaga</h1>
@@ -22,35 +21,55 @@
 ---
 
 ### About
-<img align="right" src="https://github.com/user-attachments/assets/e718bc9c-bf31-4bbb-9166-ed5d8eb3ba84" width="280" alt="Developer Illustration"/>
-I'm a ninth-semester Systems Engineering student at Universidad Mayor de San Simon (UMSS) in Cochabamba, Bolivia, focused on backend and full stack development.
 
-I currently work as a teaching assistant intern at the Development Lab of the Department of Informatics and Systems (FCyT-UMSS), where I do software development, UI design and database analysis.
+<img align="right" width="360" src="https://github.com/user-attachments/assets/78f67934-309e-4fa3-b70f-bfc515608577" alt="Developer illustration" />
 
-I enjoy building production-ready APIs and understanding a system end to end, from the database to the interface. Right now I'm strengthening my Spring Boot, TypeScript and software architecture skills, and improving my English.
+Systems Engineering student at **Universidad Mayor de San Simón (UMSS)**, Bolivia. I build backend-first software, with a strong focus on clean architecture and code that is easy to maintain.
 
-My goal is simple: write clean code, build reliable software, and grow as a software engineer.
+I design REST APIs, model relational databases and ship full stack applications with **Java**, **Spring Boot**, **TypeScript** and **PostgreSQL**, deployed with **Docker**, **Railway** and **Vercel**.
+
+<br>
+
+**Now**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Intern at the Development Lab, FCyT-UMSS<br>
+**Working on**&nbsp;&nbsp;Software development, UI design, database analysis<br>
+**Focus**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Design principles, scalable architecture, maintainable code
+
+<br clear="right" />
 
 ---
 
-### Tech Stack
+<h3 align="center">Tech Stack</h3>
 
-**Languages**
+<p align="center">
+  <sub><b>LANGUAGES</b></sub><br><br>
+  <img src="https://skillicons.dev/icons?i=java,py,js,ts,php&theme=dark" alt="Languages" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=java,py,js,ts,php&theme=dark" alt="Languages" />
+<p align="center">
+  <sub><b>BACKEND</b></sub><br><br>
+  <img src="https://skillicons.dev/icons?i=spring,django,laravel,nodejs,express,prisma&theme=dark" alt="Backend" />
+</p>
 
-**Backend**
+<p align="center">
+  <sub><b>FRONTEND</b></sub><br><br>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css&theme=dark" alt="Frontend" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=spring,django,laravel,nodejs,express,prisma&theme=dark" alt="Backend" />
+<p align="center">
+  <sub><b>DATABASES</b></sub><br><br>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,firebase,supabase&theme=dark" alt="Databases" />
+</p>
 
-**Frontend**
+<p align="center">
+  <sub><b>TOOLS &amp; DEPLOYMENT</b></sub><br><br>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vercel&theme=dark" alt="Tools" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css&theme=dark" alt="Frontend" />
+---
 
-**Databases**
+<h3 align="center">GitHub Activity</h3>
 
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,firebase,supabase&theme=dark" alt="Databases" />
-
-**Tools and deployment**
-
-<img src="https://skillicons.dev/icons?i=git,github,docker,postman,vercel&theme=dark" alt="Tools" />
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=GustavoLuizaga&show_icons=true&hide_border=true&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=58A6FF&hide_title=false" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoLuizaga&layout=compact&hide_border=true&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&langs_count=6" alt="Top languages" />
+</p>
