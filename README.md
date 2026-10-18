@@ -70,6 +70,6 @@ I design REST APIs, model relational databases and ship full stack applications 
 <h3 align="center">GitHub Activity</h3>
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=GustavoLuizaga&show_icons=true&hide_border=true&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=58A6FF&hide_title=false" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoLuizaga&layout=compact&hide_border=true&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&langs_count=6" alt="Top languages" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=GustavoLuizaga&show_icons=true&hide_border=true&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=58A6FF&hide=stars,issues,contribs&hide_rank=true&card_width=300&custom_title=Contributions" alt="GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoLuizaga&layout=compact&hide_border=true&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&langs_count=6&hide=blade,gdscript,html,css" alt="Top languages" />
 </p>
