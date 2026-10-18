@@ -14,9 +14,9 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/YOUR_USERNAME"><img src="https://skillicons.dev/icons?i=github&theme=dark" alt="GitHub" /></a>
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="LinkedIn" /></a>
-  <a href="mailto:YOUR_EMAIL"><img src="https://skillicons.dev/icons?i=gmail&theme=dark" alt="Email" /></a>
+  <a href="https://github.com/GustavoLuizaga"><img src="https://skillicons.dev/icons?i=github&theme=dark" alt="GitHub" /></a>
+  <a href="https://www.linkedin.com/in/gustavo-luizaga-merino-a780b5377"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="LinkedIn" /></a>
+  <a href="mailto:luizagamerinogustavo1@gmail.com"><img src="https://skillicons.dev/icons?i=gmail&theme=dark" alt="Email" /></a>
 </p>
 
 ---
